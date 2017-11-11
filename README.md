@@ -1,0 +1,1 @@
+# QualCome-Atheros-QCA9377-FIX
